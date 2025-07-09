@@ -50,12 +50,12 @@
   <img src="https://skillicons.dev/icons?i=mongo,mysql,postgres,firebase,supabase,redis" />
 </a>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=prisma,drizzle" />
+  <img src="https://skillicons.dev/icons?i=prisma" />
 </a>
 
 ### ☁️ Cloud & DevOps
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,gcp" />
 </a>
 
 ### 🧰 Tools & IDEs
