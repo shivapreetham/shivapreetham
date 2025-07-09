@@ -26,7 +26,49 @@
 - 💡 Passionate about **scalable web apps**, **AI/ML**, and **system design**  
 
 ---
+## Technologies I've worked with
 
+<div align="center">
+
+### Languages
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,c++" />
+  </a>
+      
+    
+  ### Libraries and Frameworks
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,tailwind,express,nodejs,npm,vite" />
+  </a>
+
+    
+  ### Databases
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,firebase,supabase" />
+  </a>
+
+
+   ### Cloud Services
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,googlecloud" />
+  </a>
+   
+    
+  ### Software Tools
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,pycharm,figma,vscode,postman" />
+  </a>
+ 
+
+### Operating Systems/ Kernels
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=windows,powershell,ubuntu" />
+</a>
+
+</div>
+<br/>
+
+# Github stats
 <div align="center">
   <img src="profile-summary-card-output/nord_dark/0-profile-details.svg" alt="me" width="685px">
   <img src="profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="me" width="">
