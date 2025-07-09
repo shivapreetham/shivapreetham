@@ -1,5 +1,6 @@
 name: GitHub-Profile-3D-Contrib-and-Summary-Cards
-
+permissions:
+  contents: write
 on:
   push:
     branches:
