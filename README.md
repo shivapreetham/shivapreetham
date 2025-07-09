@@ -28,10 +28,10 @@
 ---
 
 <div align="center">
-  <img src="profile-summary-card-output/nord-dark/0-profile-details.svg" alt="me" width="685px">
-  <img src="profile-summary-card-output/nord-dark/1-repos-per-language.svg" alt="me" width="">
-  <img src="profile-summary-card-output/nord-dark/3-stats.svg" alt="me" width="">
-  <img src="profile-summary-card-output/nord-dark/4-productive-time.svg" alt="me" width="">
+  <img src="profile-summary-card-output/nord_dark/0-profile-details.svg" alt="me" width="685px">
+  <img src="profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="me" width="">
+  <img src="profile-summary-card-output/nord_dark/3-stats.svg" alt="me" width="">
+  <img src="profile-summary-card-output/nord_dark/4-productive-time.svg" alt="me" width="">
 </div>
 <br/>
 
