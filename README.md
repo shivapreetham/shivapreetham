@@ -23,7 +23,6 @@
 
 - 🎓 **CSE Undergrad** @ NIT Jamshedpur (Batch of ’27)
 - 🤖 Currently diving deep into **Machine Learning** and **Deep Learning**
-- 🌱 Actively contributing to **open-source** and learning through collaboration
 - 💡 Passionate about building **scalable web apps**, architecting **intelligent AI systems**, and mastering **system design**
 - 📬 Reach me at: **shivapreethamofficial@gmail.com**
 
