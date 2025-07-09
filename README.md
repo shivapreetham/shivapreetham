@@ -26,50 +26,55 @@
 - 💡 Passionate about **scalable web apps**, **AI/ML**, and **system design**  
 
 ---
-## Technologies I've worked with
+## 🚀 Technologies I've Worked With
 
 <div align="center">
 
-### Languages
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp" />
-  </a>
-      
-    
-  ### Libraries and Frameworks
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,tailwind,express,nodejs,npm,vite" />
-  </a>
-
-    
-  ### Databases
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,firebase,supabase" />
-  </a>
-
-  ### ORM
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=drizzle,prisma" />
-  </a>
-
-   ### Cloud Services
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,googlecloud" />
-  </a>
-   
-    
-  ### Software Tools
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,pycharm,figma,vscode,postman" />
-  </a>
- 
-
-### Operating Systems/ Kernels
+### 💻 Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=windows,powershell,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp" />
+</a>
+
+### 🧱 Libraries & Frameworks
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,express,nodejs,vite,npm" />
+</a>
+
+### 🧠 AI/ML & Vision
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=opencv" />
+</a>
+
+### 🗄️ Databases & ORMs
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mongo,mysql,postgres,firebase,supabase,redis" />
+</a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=prisma,drizzle" />
+</a>
+
+### ☁️ Cloud & DevOps
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,aws,gcp" />
+</a>
+
+### 🧰 Tools & IDEs
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pycharm,figma" />
+</a>
+
+### 🌐 Markup & Core Stack
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</a>
+
+### 🖥️ OS & Shell
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu,powershell" />
 </a>
 
 </div>
+
 <br/>
 
 # Github stats
