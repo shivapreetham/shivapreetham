@@ -20,10 +20,13 @@
 ---
 
 ## 🌟 About Me
-- 🎓 **CSE undergrad** @ NIT Jamshedpur (Class of ’27), CGPA 8.79  
-- 🏆 **3rd Place**, HaXplore IIT‑BHU (2,300+ teams)  
-- 🚀 **Top 10 Finalist**, Qualcomm Edge AI Hackathon (1,700+ participants)  
-- 💡 Passionate about **scalable web apps**, **AI/ML**, and **system design**  
+
+- 🎓 **CSE Undergrad** @ NIT Jamshedpur (Batch of ’27)
+- 🤖 Currently diving deep into **Machine Learning** and **Deep Learning**
+- 🌱 Actively contributing to **open-source** and learning through collaboration
+- 💡 Passionate about building **scalable web apps**, architecting **intelligent AI systems**, and mastering **system design**
+- 📬 Reach me at: **shivapreethamofficial@gmail.com**
+
 
 ---
 ## 🚀 Technologies I've Worked With
@@ -38,11 +41,6 @@
 ### 🧱 Libraries & Frameworks
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react,next,tailwind,express,nodejs,vite,npm" />
-</a>
-
-### 🧠 AI/ML & Vision
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=opencv" />
 </a>
 
 ### 🗄️ Databases & ORMs
