@@ -1,5 +1,11 @@
 <!-- ================ HEADER ================ -->
-# Hey, I'm Shivapreetham! 👋  
+# Hey, I'm Shivapreetham! 👋 
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="me" width="700px">
+</div>
+
+<br/>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;NIT+Jamshedpur+CSE;Problem+Solver" alt="Typing SVG" />
 </div>
@@ -21,58 +27,20 @@
 
 ---
 
-## 💻 GitHub Stats & Skyline  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivapreethamofficial&show_icons=true&theme=radical&count_private=true&hide_border=true" width="45%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivapreethamofficial&theme=radical&hide_border=true" width="45%" alt="Streak Stats" />
+  <img src="profile-summary-card-output/transparent/0-profile-details.svg" alt="me" width="685px">
+  <img src="profile-summary-card-output/transparent/1-repos-per-language.svg" alt="me" width="">
+  <img src="profile-summary-card-output/transparent/3-stats.svg" alt="me" width="">
+  <img src="profile-summary-card-output/transparent/4-productive-time.svg" alt="me" width="">
 </div>
-<div align="center" style="margin-top:1rem;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivapreethamofficial&layout=compact&theme=radical&hide_border=true" width="45%" alt="Top Languages" />
-  <img src="https://skyline.github.com/shivapreethamofficial/shivapreethamofficial.svg" width="45%" alt="3D Contributions Skyline" />
+<br/>
+
+
+<div align="center">
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=shivapreetham&style=for-the-badge&base=120">
+</a>
 </div>
-
----
-
-## 🛠️ Tech Stack
-
-| Languages               | Frontend & UI            | Backend & DB                  | Tools & Cloud                             |
-|-------------------------|--------------------------|-------------------------------|-------------------------------------------|
-| Python · Java · C/C++ · JS/TS | React · Next.js · Tailwind · HTML/CSS | Node.js · Express · Prisma · Drizzle · MongoDB · MySQL · PostgreSQL | Git · GitHub · VS Code · Postman · Vercel · Netlify · Supabase · Firebase |
-
----
-
-## 🚀 Featured Projects
-
-### 🔗 NIT‑JSR Hub  
-_Apr 2025_ · **Next.js · React · TS · Tailwind · Prisma · MongoDB · Pusher · Stream.io · Zustand · Custom AI SDK_  
-- **Challenge:** One‑stop campus portal—attendance automation, peer marketplace, chats, video rooms  
-- **Build:** O(n) sync engine (10–15 min), scalable comms (1:1→many:many & anonymous)  
-- **Impact:** +30% engagement; open‑source, plug‑and‑play app‑store model  
-[📄 Design • 🔗 LinkedIn](#)
-
----
-
-### 🖋️ Code‑Fode: AI‑Assisted Editor  
-_Jan 2025_ · **Next.js · Node.js · MongoDB · Socket.IO · Cohere API**  
-- Real‑time collab (<100 ms), AI‑powered linting & docs  
-- Team MVP in 36 hrs → 3rd/1,100+ @ HaXplore‑IIT‑BHU  
-[📄 Design • 🔗 LinkedIn](#)
-
----
-
-### 🤟 Ishara: ISL Recognition  
-_May 2025_ · **MediaPipe · OpenCV · Scikit‑learn · Gemini API · Tkinter**  
-- 35‑gesture detection → live text & voice output  
-- Pipeline: capture → augment → features → RF classifier → GUI  
-[▶ Demo Video](#)
-
----
-
-## 🏆 Achievements
-- 🥉 **3rd Place**, HaXplore Hackathon @ IIT‑BHU (Feb 2025)  
-- 🚀 **Top 10 Finalist**, Qualcomm Edge AI Hackathon (Jun 2025)  
-- 🎯 **Global Rank 1370**, Codeforces Round 1017 (Apr 2025)  
-
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
