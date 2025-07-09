@@ -90,7 +90,6 @@
     <img src="https://komarev.com/ghpvc/?username=shivapreetham&style=for-the-badge&base=120">
 </a>
 </div>
----
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
