@@ -34,20 +34,17 @@
 
 ### 💻 Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java,go" />
 </a>
 
 ### 🧱 Libraries & Frameworks
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind,express,nodejs,vite,npm" />
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,express,nodejs,vite,npm,gin" />
 </a>
 
 ### 🗄️ Databases & ORMs
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongo,mysql,postgres,firebase,supabase,redis" />
-</a>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=prisma" />
+  <img src="https://skillicons.dev/icons?i=mongo,mysql,postgres,firebase,supabase,redis,prisma" />
 </a>
 
 ### ☁️ Cloud & DevOps
@@ -67,7 +64,7 @@
 
 ### 🖥️ OS & Shell
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=windows,ubuntu,powershell" />
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu />
 </a>
 
 </div>
